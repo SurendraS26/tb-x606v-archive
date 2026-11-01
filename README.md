@@ -7,4 +7,4 @@ Your solely responsible for your own damage.
 
 Prerequisites
 -------------
-- 
+- Download the adb tools for your Operating system from this website -> [link](https://developer.android.com/tools/releases/platform-tools)  
