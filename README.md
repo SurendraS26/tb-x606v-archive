@@ -60,10 +60,10 @@ Installation Guide
 - Steps for patching the `boot.img` with magisk app
   
   > Open Magisk app. <br>
-    Click **Install**.
-    Select and patch a file.
-    Choose the `boot.img`
-    You will have the patched image in Downloads folder named as `magisk_patched-xyz.img`.
+    Click **Install**. <br>
+    Select and patch a file. <br>
+    Choose the `boot.img`. <br>
+    You will have the patched image in Downloads folder named as `magisk_patched-xyz.img`. <br>
 
 - Flashing the patched image to the device
 
