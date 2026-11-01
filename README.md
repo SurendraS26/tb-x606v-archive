@@ -26,7 +26,8 @@ Prerequisites
 
 My Advice
 ---------
-i hope you know wha <change>
+I hope you know what your doing with your devices and know what are the consequences after rooting device.
+Do some research before rooting your device.
 
 Installation Guide
 ------------------
