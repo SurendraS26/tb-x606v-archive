@@ -9,5 +9,5 @@ A quick guide on to Root your Lenovo Android Tablet for **`TB-X606V`** model usi
 
 Prerequisites
 -------------
-- You need to install `adb` and `fastboot` which is known as `platform-tools` -> [link](https://developer.android.com/tools/releases/platform-tools)
+- You need to install `adb` and `fastboot` which is known as `platform-tools`.
 - USB cable of your Tablet which you want to **`Root`**.
