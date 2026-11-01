@@ -8,5 +8,4 @@ Your solely responsible for your own damage.
 Prerequisites
 -------------
 - You need to install `adb` and `fastboot` which is known as **`platform-tools`**. -> [link](https://developer.android.com/tools/releases/platform-tools)
-- USB cable of your device.
-- Your Tablet which you want to **`root`**.
+- USB cable of your Tablet which you want to **`Root`**.
