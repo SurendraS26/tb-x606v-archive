@@ -22,7 +22,11 @@ Prerequisites
 - Magisk App installed.
 - Enable Developer Options.
 - Turn on USB debugging and OEM bootloader unlock.
-> Note: Your almost there to root this device. 
+> Note: Keep ready with all the things.
+
+My Advice
+---------
+i hope you know wha <change>
 
 Installation Guide
 ------------------
@@ -43,6 +47,48 @@ Installation Guide
     ```bash
     > fastboot flashing unlock
     ```
-> Note: You need to confirm the unlock on your phone screen.
+  > Note: You need to confirm the unlock on your phone screen.
+
+- Copy the `boot.img` to Device storage
+  
+  -  Push the `boot.img` file to device
+
+     ```bash
+     > adb push boot.img /sdcard/Download/
+     ```
+  
+- Steps for patching the `boot.img` with magisk app
+  
+  > Open Magisk app. <br>
+    Click **Install**.
+    Select and patch a file.
+    Choose the `boot.img`
+    You will have the patched image in Downloads folder named as `magisk_patched-xyz.img`.
+
+- Flashing the patched image to the device
+
+  - Pull the patched image from the device `magisk_patched-xyz.img`
+
+    ```bash
+    > adb pull /sdcard/Download/magisk_patched-xyz.img
+    ```
+
+  - Reboot the device back to fastboot mode
+
+    ```bash
+    > adb reboot bootloader
+    ```
+
+  - Flash the patched boot.img to device
+
+    ```bash
+    fastboot flash boot magisk_patched-xyz.img
+    ```
+
+  - Reboot your device
+
+    ```bash
+    > fastboot reboot
+    ```
 
 
