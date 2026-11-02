@@ -1,5 +1,5 @@
 # Lenovo TB-X606V Dump Device
-A quick guide on to Root your Lenovo Android Tablet for **`TB-X606V`** model using Magisk 🐣
+A quick guide on to `toor` your Lenovo Android Tablet for **`TB-X606V`** model using Magisk 🐣
 
 > `Device warranty is void.` <br>
  `I'm not responsible for your device bricked. .` <br>
