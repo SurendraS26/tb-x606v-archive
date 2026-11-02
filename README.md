@@ -84,7 +84,7 @@ Installation Guide
 ```
 
 After the reboot, and you'll see your device is rooted 😊
-> Just be careful cause rooted device are even more riskier to maintain.
+> `Just be careful cause rooted device are even more riskier to maintain.`
 
 License
 -------
